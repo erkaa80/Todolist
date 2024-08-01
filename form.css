@@ -1,0 +1,18 @@
+.click-button {
+    background-color: beige;
+    border-radius: 8px;
+    color: black;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+
+}
+#exercise1 button{
+    background-color:rgb(25, 116, 195);
+    border-radius: 8px;
+    color: black;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;}
